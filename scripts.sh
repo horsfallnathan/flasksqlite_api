@@ -1,6 +1,6 @@
 #!/bin/sh
 ACTION=run
-FLASK_APP=play.py
+FLASK_APP=app.py
 FLASK_ENV=development
 
 # export flask variables

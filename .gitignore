@@ -10,3 +10,4 @@ play.py
 .flaskenv
 *.pyc
 *.pyo
+output/
