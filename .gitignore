@@ -1,0 +1,12 @@
+processDocument.md
+*.db
+._*
+.cache/
+.pytest_cache/
+.idea
+.vscode
+canaryenv/
+play.py
+.flaskenv
+*.pyc
+*.pyo
